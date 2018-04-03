@@ -1,0 +1,56 @@
+body{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.container{
+
+	border: 2px solid blue;
+    margin:auto;
+    padding:10px;
+    border-radius: 25px;
+    height:1100px;
+}
+
+
+
+.title{
+	padding-left: 15%;
+	margin-top: 5%;	
+}
+
+.img-padding{
+	padding-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;	
+}
+
+.subtitle{
+	margin-top: 1%;
+	padding-left: 30%;	
+}
+
+line{
+	stroke:rgb(255,0,0);
+	stroke-width:2	
+}
+
+.quote{	
+	margin-left: auto;
+    margin-right: auto;
+	padding-bottom: 5%;    
+}
+
+.programmer{
+    margin-left: auto;
+    margin-right: auto;
+}
+	
+.python,.javascript,.net{
+	padding-bottom:50px;
+	height:160px;
+	padding-left: 13%;
+}
+
