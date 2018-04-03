@@ -1,2 +1,2 @@
-# My-Profile
-My Profile graphical representation using Bootstrap 
+# My-Portfolio
+My portfolio summarized graphical representation using HTML, CSS and Bootstrap.
